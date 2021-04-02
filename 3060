@@ -1,0 +1,26 @@
+<VAST version="3.0">
+<Ad id="2400994">
+<InLine>
+<AdSystem>Stream</AdSystem>
+<AdTitle/>
+<Error> </Error>
+<Creatives>
+<Creative sequence="1" id="20589484">
+<Linear skipoffset="00:00:20">
+<Duration>00:00:20.96</Duration>
+<TrackingEvents>
+<Tracking event="progress" offset="00:00:10.000"> </Tracking>
+</TrackingEvents>
+<VideoClicks>
+<ClickThrough>https://housewifehaunted.com/wuhwrefu?key=d6a645a65ba6daa788b7cc28cd5707de</ClickThrough>
+<ClickTracking>gif.png</ClickTracking>
+</VideoClicks>
+<MediaFiles>
+<MediaFile delivery="progressive" type="video/mp4"> https://github.com/tathan-1991/videos/raw/master/y2meta.com%20-%20Justin%20Gets%20Real_%20PC%20Gaming%20_%20Intel.mp4 </MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+</VAST>
